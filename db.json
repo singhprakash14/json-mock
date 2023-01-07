@@ -10,6 +10,19 @@
             "password":"pass1410", "role": "ADMIN"
         }
     ],
+    
+    "signup":[
+        {
+         "id": 1, "email":"nareshkumarh@live.com", "username":"Naresh Kumar H",
+           "password":"pass123", "Confrimpassword":"pass123"
+        }
+    
+    ],
+    "login":[
+    
+    
+    
+    ]
     "cars":[
       {
       "id": 1,
